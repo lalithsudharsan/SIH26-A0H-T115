@@ -70,12 +70,12 @@ For **every team member**, provide:
 
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   | Mahakisore M            | CB.SC.U4AIE24333       |      Male       |       B.Tech CSE(AI)            |  
+|    Member 2     | Ramkumar K R            | CB.SC.U4AIE24042       |      Male       |       B.Tech CSE(AI)            |  
+|    Member 3     | Jaswanth Saravanan      | CB.SC.U4AIE24324       |      Male       |       B.Tech CSE(AI)            |  
+|    Member 4     | Maalika P               | CB.SC.U4AIE24332       |      Female     |       B.Tech CSE(AI)            |   
+|    Member 5     | Mithul Pranav M         | CB.SC.U4AIE24331       |      Male       |       B.Tech CSE(AI)            |  
+|    Member 6     | Vaishak T               | CB.EN.U4CCE24156       |      Male       |       B.Tech CCE                |   
 
 > Update the table according to the actual number of members in your team.
 
@@ -85,7 +85,7 @@ Provide the details of the faculty mentor assigned to your team.
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |    Abhijith A       | Assistant Professor   | Amrita School of AI     |a_abhijith@cb.amrita.edu  |
 | Industry       |                     |                       |                         |                          |
 
 Ensure that the mentor details are accurate and match the information provided by the SIH coordination team.

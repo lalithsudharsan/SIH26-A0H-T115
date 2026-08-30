@@ -96,11 +96,11 @@ The selected problem statement must be clearly documented.
 
 Provide:
 
-* **Problem Statement ID**
-* **Problem Statement Title**
+* **Problem Statement ID** : SIH26117
+* **Problem Statement Title** : Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work
 * **Problem Statement Description** (if required)
-* **Theme / Category**
-* **Ministry / Organization**, wherever applicable
+* **Theme / Category** : Smart Automation
+* **Ministry / Organization**, wherever applicable : Mangalore Refinery and Petrochemicals Limited (MRPL)
 
 Example:
 

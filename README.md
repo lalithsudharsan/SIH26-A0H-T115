@@ -14,8 +14,8 @@
 |   Team Leader   |Lalith sudharsan M M     |CB.AI.U4AAR26029        | M                | AID(AARS)                                |  
 |    Member 2     |Talluri charan Vignesh   |CB.AI.U4AAR26056        |  M               | AID(AARS)                                |  
 |    Member 3     |Ariyav Madhesh R         |CB.AI.U4AAR26008        |   M              | AID(AARS)                                |  
-|    Member 4     |Rathish K                |                        |    M             | AID(AARS)                                |   
-|    Member 5     |Mukkamalla Tejorithvikaareddy   |CB.AI.U4AAR26035                        |F                 |AID(AARS)                                 |  
+|    Member 4     |Rathish K                |CB.AI.U4AAR26044       |    M             | AID(AARS)                                |   
+|    Member 5     |Mukkamalla Tejorithvikaareddy   |CB.AI.U4AAR26035 |F                 |AID(AARS)                                 |  
 |    Member 6     |Devalla havisha                         | CB.AI.U4AAR26017                       |     Female      | AID(AARS)                                |   
 
 #### Mentor Details
